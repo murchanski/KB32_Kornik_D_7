@@ -1,0 +1,4 @@
+/home/lapochka/CLionProjects/Task7_origin/cmake-build-debug/CMakeFiles/Task7_origin.dir
+/home/lapochka/CLionProjects/Task7_origin/cmake-build-debug/CMakeFiles/child.dir
+/home/lapochka/CLionProjects/Task7_origin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lapochka/CLionProjects/Task7_origin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
